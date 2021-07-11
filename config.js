@@ -1,5 +1,7 @@
 const CONFIG = {
-    introTitle: 'hello ank:3!
+    introTitle: 'hello ank:3',
+    introDesc:' ',
+    btnintro:' ',
     title: 'ank có yêu em không ??',
     desc: 'thoát ra là làm chồng em luôn nka đcm ',
     btnYes: 'yêu em vailon:3',
